@@ -6,9 +6,9 @@ color:
   saturation: 0.8529544312041253
   rhythmicContrast: 0.8997429106384516
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: homeland
