@@ -1,0 +1,14 @@
+layout_spectrum: 0.03739058179780841
+typography_spectrum: 0.22212292137555778
+color:
+  brandStrength: 0.8734198913443834
+  lightness: 0.6990382287185639
+  saturation: 0.8529544312041253
+  rhythmicContrast: 0.8997429106384516
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: homeland
